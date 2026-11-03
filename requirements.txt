@@ -1,0 +1,6 @@
+aiohttp>=3.9
+mss>=9.0
+pillow>=10.0
+qrcode>=7.4
+pyobjc-framework-Quartz>=10.0
+pyobjc-framework-Cocoa>=10.0
